@@ -1,0 +1,11 @@
+/* App.css */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* content of the body of html takes full height of viewport */
+}
+
+.app-container {
+  text-align: center; /* Center align the contents */
+}
